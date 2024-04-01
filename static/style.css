@@ -1,0 +1,17 @@
+.img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+*{
+    font-family: "Playfair Display", serif;
+}
+
+.img-file{
+    border-radius: 6px;
+}
+
+.card-title{
+    font-weight: bold;
+}
